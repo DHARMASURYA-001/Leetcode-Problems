@@ -1,4 +1,7 @@
-""" Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+""" 
+50. Pow(x, n)
+
+Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
 Example 1:
 
